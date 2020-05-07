@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MessageSender01.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="previousName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test Device 1</Value>
+    </Setting>
+    <Setting Name="previousPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zzz2310</Value>
+    </Setting>
+    <Setting Name="previousAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:55461/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
